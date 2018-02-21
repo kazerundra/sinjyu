@@ -1,0 +1,30 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\BattleScript\player.cs">
+    <Files>
+      <File FileName="Assets\BattleScript\player.cs" Line="1066" Column="4" />
+      <File FileName="Assets\BattleScript\ParticleScript.cs" Line="37" Column="18" />
+      <File FileName="Assets\titleBack.cs" Line="1" Column="1" />
+      <File FileName="Assets\BattleScript\MenuSelect.cs" Line="1" Column="1" />
+      <File FileName="Assets\BattleScript\MovementScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\BattleScript\Control.cs" Line="1" Column="1" />
+      <File FileName="Assets\BattleScript\GameController.cs" Line="1" Column="1" />
+      <File FileName="Assets\BattleScript\PanelScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\BattleScript\BattleScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\BattleScript\BattleChanger.cs" Line="1" Column="1" />
+      <File FileName="Assets\BattleScript\TittleMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\uiHp.cs" Line="1" Column="1" />
+      <File FileName="Assets\soundContr.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="C:\Users\Rundra\Documents\syu-stivan-p\newGame\Assets\BattleScript\player.cs" line="1997" column="1" />
+      <Breakpoint enabled="false" file="C:\Users\Rundra\Documents\syu-stivan-p\newGame\Assets\BattleScript\MovementScript.cs" line="324" column="1" />
+      <Breakpoint file="C:\Users\Rundra\Documents\syu-stivan-p\newGame\Assets\BattleScript\player.cs" line="418" column="1" />
+      <Breakpoint file="C:\Users\Rundra\Documents\syu-stivan-p\newGame\Assets\BattleScript\player.cs" line="423" column="1" />
+      <Breakpoint file="C:\Users\Rundra\Documents\syu-stivan-p\newGame\Assets\BattleScript\player.cs" line="426" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
