@@ -46,21 +46,21 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\BattleScript\BattleChanger.cs" />
-     <Compile Include="Assets\BattleScript\BattleOrder.cs" />
-     <Compile Include="Assets\BattleScript\BattleScript.cs" />
-     <Compile Include="Assets\BattleScript\CameraController.cs" />
-     <Compile Include="Assets\BattleScript\Control.cs" />
-     <Compile Include="Assets\BattleScript\GameController.cs" />
-     <Compile Include="Assets\BattleScript\MenuSelect.cs" />
-     <Compile Include="Assets\BattleScript\MovementScript.cs" />
-     <Compile Include="Assets\BattleScript\PanelScript.cs" />
-     <Compile Include="Assets\BattleScript\ParticleScript.cs" />
-     <Compile Include="Assets\BattleScript\TittleMenu.cs" />
-     <Compile Include="Assets\BattleScript\player.cs" />
-     <Compile Include="Assets\soundContr.cs" />
-     <Compile Include="Assets\titleBack.cs" />
-     <Compile Include="Assets\uiHp.cs" />
+     <Compile Include="Assets\Script\BattleChanger.cs" />
+     <Compile Include="Assets\Script\BattleOrder.cs" />
+     <Compile Include="Assets\Script\BattleScript.cs" />
+     <Compile Include="Assets\Script\CameraController.cs" />
+     <Compile Include="Assets\Script\Control.cs" />
+     <Compile Include="Assets\Script\GameController.cs" />
+     <Compile Include="Assets\Script\MenuSelect.cs" />
+     <Compile Include="Assets\Script\MovementScript.cs" />
+     <Compile Include="Assets\Script\PanelScript.cs" />
+     <Compile Include="Assets\Script\ParticleScript.cs" />
+     <Compile Include="Assets\Script\TittleMenu.cs" />
+     <Compile Include="Assets\Script\player.cs" />
+     <Compile Include="Assets\Script\soundContr.cs" />
+     <Compile Include="Assets\Script\titleBack.cs" />
+     <Compile Include="Assets\Script\uiHp.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

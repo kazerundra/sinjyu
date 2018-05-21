@@ -1,20 +1,13 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\BattleScript\player.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\GameController.cs">
     <Files>
-      <File FileName="Assets\BattleScript\player.cs" Line="1066" Column="4" />
-      <File FileName="Assets\BattleScript\ParticleScript.cs" Line="37" Column="18" />
-      <File FileName="Assets\titleBack.cs" Line="1" Column="1" />
-      <File FileName="Assets\BattleScript\MenuSelect.cs" Line="1" Column="1" />
-      <File FileName="Assets\BattleScript\MovementScript.cs" Line="1" Column="1" />
-      <File FileName="Assets\BattleScript\Control.cs" Line="1" Column="1" />
-      <File FileName="Assets\BattleScript\GameController.cs" Line="1" Column="1" />
-      <File FileName="Assets\BattleScript\PanelScript.cs" Line="1" Column="1" />
-      <File FileName="Assets\BattleScript\BattleScript.cs" Line="1" Column="1" />
-      <File FileName="Assets\BattleScript\BattleChanger.cs" Line="1" Column="1" />
-      <File FileName="Assets\BattleScript\TittleMenu.cs" Line="1" Column="1" />
-      <File FileName="Assets\uiHp.cs" Line="1" Column="1" />
-      <File FileName="Assets\soundContr.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\GameController.cs" Line="212" Column="58" />
+      <File FileName="Assets\Script\BattleScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\player.cs" Line="1099" Column="1" />
+      <File FileName="Assets\Script\Control.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\MovementScript.cs" Line="404" Column="19" />
+      <File FileName="Assets\Script\MenuSelect.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
@@ -24,6 +17,9 @@
       <Breakpoint file="C:\Users\Rundra\Documents\syu-stivan-p\newGame\Assets\BattleScript\player.cs" line="418" column="1" />
       <Breakpoint file="C:\Users\Rundra\Documents\syu-stivan-p\newGame\Assets\BattleScript\player.cs" line="423" column="1" />
       <Breakpoint file="C:\Users\Rundra\Documents\syu-stivan-p\newGame\Assets\BattleScript\player.cs" line="426" column="1" />
+      <Breakpoint file="C:\Users\Rundra\Documents\syu-stivan-p\newGame\Assets\Script\BattleScript.cs" line="173" column="1" />
+      <Breakpoint file="C:\Users\Rundra\Documents\syu-stivan-p\newGame\Assets\Script\BattleScript.cs" line="181" column="1" />
+      <Breakpoint file="C:\Users\Rundra\Documents\syu-stivan-p\newGame\Assets\Script\BattleScript.cs" line="118" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
